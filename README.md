@@ -14,9 +14,9 @@
 
 # 使用cubemx创建工程
 
-**设置时钟树：** 
+**设置时钟树:** 
 
-![start_one](D:\develop\Demo\watch_lvgl and freertos\images\config\RCC.png)
+[start_one](D:\develop\Demo\watch_lvgl and freertos\images\config\RCC.png)
 
 - 使用的STM32F411RET6芯片有两个外部晶振，HSE为25MHz，LSE为32.768KHz
 
