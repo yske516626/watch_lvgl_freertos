@@ -1,0 +1,14 @@
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+watch_lvgl_freertos\stream_buffer.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdint.h
+watch_lvgl_freertos\stream_buffer.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\string.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+watch_lvgl_freertos\stream_buffer.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stddef.h
+watch_lvgl_freertos\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+watch_lvgl_freertos\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

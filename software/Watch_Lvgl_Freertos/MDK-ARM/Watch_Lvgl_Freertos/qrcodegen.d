@@ -1,0 +1,9 @@
+watch_lvgl_freertos\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.c
+watch_lvgl_freertos\qrcodegen.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\assert.h
+watch_lvgl_freertos\qrcodegen.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\limits.h
+watch_lvgl_freertos\qrcodegen.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+watch_lvgl_freertos\qrcodegen.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\string.h
+watch_lvgl_freertos\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.h
+watch_lvgl_freertos\qrcodegen.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+watch_lvgl_freertos\qrcodegen.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stddef.h
+watch_lvgl_freertos\qrcodegen.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdint.h

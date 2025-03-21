@@ -1,0 +1,13 @@
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_lru.c
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_lru.h
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+watch_lvgl_freertos\lv_lru.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stdint.h
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../../../lv_conf.h
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+watch_lvgl_freertos\lv_lru.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\stddef.h
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_math.h
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+watch_lvgl_freertos\lv_lru.o: D:\develop\keil\ARM\ARMCC\Bin\..\include\string.h
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h
+watch_lvgl_freertos\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h
